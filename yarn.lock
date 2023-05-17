@@ -13906,10 +13906,10 @@ vfile@^5.0.0, vfile@^5.3.0, vfile@^5.3.4:
     unist-util-stringify-position "^3.0.0"
     vfile-message "^3.0.0"
 
-villus@^2.1.0:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/villus/-/villus-2.2.1.tgz#fd74a724862281e4673e00ee4302e3ea1eabaab1"
-  integrity sha512-vnrY62rf5Yzfew0fZbHQ7b51NpcWKbNDxxmq98NNhBRXjt8gVtbbXsOpRatnKINxsZPPzH+zLJGnTj95F0InHQ==
+villus@^3.0.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/villus/-/villus-3.1.0.tgz#486a0ebe198fa1b013c2e1088a080d23862ec8b1"
+  integrity sha512-Z4fXLWB9OgVfWKCiGFf+KFX6Y0/2qEcqiCp2FVO3oUs9LkD1ksSgQU2H2rGV/YDEbYIwKgbcZRww3ysxy2HcXg==
 
 vite@^4.1.0:
   version "4.3.5"
